@@ -1,6 +1,6 @@
 
 print("hello, my name is Cynthia")
-print("Nous allons faire des petits calculs")
+print("Nous allons faire des petits calculssssssssssssssssssss")
 t = 5+3
 s = 2-9
 u = 20/3
@@ -12,7 +12,7 @@ print("s =", s)
 print("u =", u)
 print(msg)
 
-print("EXERCICES")
+print("EXERCICE")
 a,b,c = 3,7,5  # La meilleure commande de la journée
 z = a-b//c
 print("Le résutat est z = ", z)
